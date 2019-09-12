@@ -1,0 +1,64 @@
+A01	Crop and animal production, hunting and related service activities	B_102030	Agriculture / Forestry	1
+A02	Forestry and logging	B_102030	Agriculture / Forestry	2
+A03	Fishing and aquaculture	B_102020	Fishing	3
+B	Mining and quarrying	B_101825	Mining and Quarrying	4
+C10-C12	Manufacture of food products; beverages and tobacco products	B_101830	Food and Tabacco	5
+C13-C15	Manufacture of textiles, wearing apparel, leather and related products	B_101835	Textile and Leather	6
+C16	Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials	B_101851	Wood and Wood Products	7
+C17	Manufacture of paper and paper products	B_101840	Paper, Pulp and Print	8
+C18	Printing and reproduction of recorded media	B_101840	Paper, Pulp and Print	9
+C19	Manufacture of coke and refined petroleum products	None	Not final	10
+C20	Manufacture of chemicals and chemical products	B_101815	Chemical and Petrochemical industry	11
+C21	Manufacture of basic pharmaceutical products and pharmaceutical preparations	B_101815	Chemical and Petrochemical industry	12
+C22	Manufacture of rubber and plastic products	B_101815	Chemical and Petrochemical industry	13
+C23	Manufacture of other non-metallic mineral products	B_101820	Non-metallic Minerals (Glass, pottery & building mat. Industry)	14
+C24	Manufacture of basic metals	B_101805+10	Metal industry	15
+C25	Manufacture of fabricated metal products, except machinery and equipment	B_101853	Non-specified (Industry)	16
+C26	Manufacture of computer, electronic and optical products	B_101847	Machinery	17
+C27	Manufacture of electrical equipment	B_101847	Machinery	18
+C28	Manufacture of machinery and equipment n.e.c.	B_101847	Machinery	19
+C29	Manufacture of motor vehicles, trailers and semi-trailers	B_101846	Transport Equipment	20
+C30	Manufacture of other transport equipment	B_101846	Transport Equipment	21
+C31_C32	Manufacture of furniture; other manufacturing	B_101851	Wood and Wood Products	22
+C33	Repair and installation of machinery and equipment	B_101853	Non-specified (Industry)	23
+D	Electricity, gas, steam and air conditioning supply	None	Not final	24
+E36	Water collection, treatment and supply	B_102035+40	Services	25
+E37-E39	Sewerage, waste management, remediation activities	B_102035+40	Services	26
+F	Construction	B_101852	Construction	27
+G45	Wholesale and retail trade and repair of motor vehicles and motorcycles	B_102035+40	Services	28
+G46	Wholesale trade, except of motor vehicles and motorcycles	B_102035+40	Services	29
+G47	Retail trade, except of motor vehicles and motorcycles	B_102035+40	Services	30
+H49	Land transport and transport via pipelines	B_101910+20+45+50	Land transport	31
+H50	Water transport	B_101940	Domestic Navigation	32
+H51	Air transport	B_101931+2	Aviation	33
+H52	Warehousing and support activities for transportation	B_102035+40	Services	34
+H53	Postal and courier activities	B_102035+40	Services	35
+I	Accommodation and food service activities	B_102035+40	Services	36
+J58	Publishing activities	B_102035+40	Services	37
+J59_J60	Motion picture, video, television programme production; programming and broadcasting activities	B_102035+40	Services	38
+J61	Telecommunications	B_102035+40	Services	39
+J62_J63	Computer programming, consultancy, and information service activities	B_102035+40	Services	40
+K64	Financial service activities, except insurance and pension funding	B_102035+40	Services	41
+K65	Insurance, reinsurance and pension funding, except compulsory social security	B_102035+40	Services	42
+K66	Activities auxiliary to financial services and insurance activities	B_102035+40	Services	43
+L	Real estate activities	B_102035+40	Services	44
+M69_M70	Legal and accounting activities; activities of head offices; management consultancy activities	B_102035+40	Services	45
+M71	Architectural and engineering activities; technical testing and analysis	B_102035+40	Services	46
+M72	Scientific research and development	B_102035+40	Services	47
+M73	Advertising and market research	B_102035+40	Services	48
+M74_M75	Other professional, scientific and technical activities; veterinary activities	B_102035+40	Services	49
+N77	Rental and leasing activities	B_102035+40	Services	50
+N78	Employment activities	B_102035+40	Services	51
+N79	Travel agency, tour operator reservation service and related activities	B_102035+40	Services	52
+N80-N82	Security and investigation, service and landscape, office administrative and support activities	B_102035+40	Services	53
+O	Public administration and defence; compulsory social security	B_102035+40	Services	54
+P	Education	B_102035+40	Services	55
+Q86	Human health activities	B_102035+40	Services	56
+Q87_Q88	Residential care activities and social work activities without accommodation	B_102035+40	Services	57
+R90-R92	Creative, arts and entertainment activities; libraries, archives, museums and other cultural activities; gambling and betting activities	B_102035+40	Services	58
+R93	Sports activities and amusement and recreation activities	B_102035+40	Services	59
+S94	Activities of membership organisations	B_102035+40	Services	60
+S95	Repair of computers and personal and household goods	B_102035+40	Services	61
+S96	Other personal service activities	B_102035+40	Services	62
+T	Activities of households as employers; undifferentiated goods- and services-producing activities of households for own use	B_102035+40	Services	63
+U	Activities of extraterritorial organisations and bodies	B_102035+40	Services	64

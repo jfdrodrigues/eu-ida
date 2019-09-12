@@ -1,0 +1,25 @@
+B_101805	Iron & steel industry	B_101805+10	Metal industry	1
+B_101815	Chemical and Petrochemical industry	B_101815	Chemical and Petrochemical industry	2
+B_101810	Non-ferrous metal industry	B_101805+10	Metal industry	3
+B_101820	Non-metallic Minerals (Glass, pottery & building mat. Industry)	B_101820	Non-metallic Minerals (Glass, pottery & building mat. Industry)	4
+B_101846	Transport Equipment	B_101846	Transport Equipment	5
+B_101847	Machinery	B_101847	Machinery	6
+B_101825	Mining and Quarrying	B_101825	Mining and Quarrying	7
+B_101830	Food and Tabacco	B_101830	Food and Tabacco	8
+B_101840	Paper, Pulp and Print	B_101840	Paper, Pulp and Print	9
+B_101851	Wood and Wood Products	B_101851	Wood and Wood Products	10
+B_101852	Construction	B_101852	Construction	11
+B_101835	Textile and Leather	B_101835	Textile and Leather	12
+B_101853	Non-specified (Industry)	B_101853	Non-specified (Industry)	13
+B_101910	Rail	B_101910+20+45+50	Land transport	14
+B_101920	Road	B_101910+20+45+50	Land transport	15
+B_101931	International aviation	B_101931+2	Aviation	16
+B_101932	Domestic aviation	B_101931+2	Aviation	17
+B_101940	Domestic Navigation	B_101940	Domestic Navigation	18
+B_101945	Pipeline transport	B_101910+20+45+50	Land transport	19
+B_101950	Non-specified (Transport)	B_101910+20+45+50	Land transport	20
+B_102035	Services	B_102035+40	Services	21
+B_102010	Residential	B_102010	Residential	22
+B_102030	Agriculture / Forestry	B_102030	Agriculture / Forestry	23
+B_102020	Fishing	B_102020	Fishing	24
+B_102040	Non-specified (Other)	B_102035+40	Services	25

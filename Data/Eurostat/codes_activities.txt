@@ -1,0 +1,47 @@
+B_100900	Gross inland consumption	B_100900	Gross inland consumption	1
+B_100300	Imports	B_100900	Gross inland consumption	2
+B_100500	Exports	B_100900	Gross inland consumption	3
+B_101000	Transformation input	B_101000	Transformation input	4
+B_101001	Conventional Thermal Power Stations	B_101000	Transformation input	5
+B_101009	District heating plants	B_101000	Transformation input	6
+B_101002	Nuclear Power Stations	B_101000	Transformation input	7
+B_101008	Refineries	B_101000	Transformation input	8
+B_101100	Transformation output	B_101100	Transformation output	9
+B_101101	Conventional Thermal Power Stations	B_101100	Transformation output	10
+B_101109	District Heating Plants	B_101100	Transformation output	11
+B_101102	Nuclear power stations	B_101100	Transformation output	12
+B_101108	Refineries	B_101100	Transformation output	13
+B_101200	Exchanges and transfers, returns	B_101200	Exchanges and transfers, returns	14
+B_101300	Consumption of the energy branch	B_101300	Consumption of the energy branch	15
+B_101603	Non-Energy Use in Transformation sector	B_101600	Final non-energy consumption	16
+B_101604	Non-Energy Use in Energy sector	B_101600	Final non-energy consumption	17
+B_101605	Non-Energy Use in Industry sector	B_101600	Final non-energy consumption	18
+B_101601	of which Non-Energy Use in Chemical/Petrochemical Industry	B_101600	Final non-energy consumption	19
+B_101606	Non-Energy Use in Transport sector	B_101600	Final non-energy consumption	20
+B_101607	Non-Energy Use in Other sectors	B_101600	Final non-energy consumption	21
+B_101608	Non-Energy Use in Industry, Transformation and Energy Sectors	B_101600	Final non-energy consumption	22
+B_101805	Iron & steel industry	B_101700	Final energy consumption	23
+B_101815	Chemical and Petrochemical industry	B_101700	Final energy consumption	24
+B_101810	Non-ferrous metal industry	B_101700	Final energy consumption	25
+B_101820	Non-metallic Minerals (Glass, pottery & building mat. Industry)	B_101700	Final energy consumption	26
+B_101846	Transport Equipment	B_101700	Final energy consumption	27
+B_101847	Machinery	B_101700	Final energy consumption	28
+B_101825	Mining and Quarrying	B_101700	Final energy consumption	29
+B_101830	Food and Tabacco	B_101700	Final energy consumption	30
+B_101840	Paper, Pulp and Print	B_101700	Final energy consumption	31
+B_101851	Wood and Wood Products	B_101700	Final energy consumption	32
+B_101852	Construction	B_101700	Final energy consumption	33
+B_101835	Textile and Leather	B_101700	Final energy consumption	34
+B_101853	Non-specified (Industry)	B_101700	Final energy consumption	35
+B_101910	Rail	B_101700	Final energy consumption	36
+B_101920	Road	B_101700	Final energy consumption	37
+B_101931	International aviation	B_101700	Final energy consumption	38
+B_101932	Domestic aviation	B_101700	Final energy consumption	39
+B_101940	Domestic Navigation	B_101700	Final energy consumption	40
+B_101945	Pipeline transport	B_101700	Final energy consumption	41
+B_101950	Non-specified (Transport)	B_101700	Final energy consumption	42
+B_102035	Services	B_101700	Final energy consumption	43
+B_102010	Residential	B_101700	Final energy consumption	44
+B_102030	Agriculture / Forestry	B_101700	Final energy consumption	45
+B_102020	Fishing	B_101700	Final energy consumption	46
+B_102040	Non-specified (Other)	B_101700	Final energy consumption	47

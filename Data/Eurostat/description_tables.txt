@@ -1,0 +1,20 @@
+Energy block:
+
+nrg_110a = complete energy balances
+
+nrg_122a = imports solid fuels
+nrg_123a = imports oil
+nrg_124a = imports gas
+nrg_125a = imports electricity
+nrg_126a = imports renewables
+
+nrg_132a = exports solid fuels
+nrg_133a = exports oil
+nrg_134a = exports gas
+nrg_135a = exports electricity
+nrg_136a = exports renewables
+
+
+
+
+

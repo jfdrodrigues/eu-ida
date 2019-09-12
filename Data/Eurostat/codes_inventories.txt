@@ -1,0 +1,3 @@
+CRF1A1A	Fuel combustion in public electricity and heat production	1
+CRF1A1B	Fuel combustion in petroleum refining	2
+CRF1A1C	Fuel combustion in manufacture of solid fuels and other energy industries	3

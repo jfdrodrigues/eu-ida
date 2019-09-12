@@ -1,0 +1,25 @@
+BE	Belgium	1
+BG	Bulgaria	2
+CZ	Czechia	3
+DK	Denmark	4
+DE	Germany (until 1990 former territory of the FRG)	5
+EE	Estonia	6
+IE	Ireland	7
+EL	Greece	8
+ES	Spain	9
+FR	France	10
+HR	Croatia	11
+IT	Italy	12
+LV	Latvia	13
+LT	Lithuania	14
+HU	Hungary	15
+NL	Netherlands	16
+AT	Austria	17
+PL	Poland	18
+PT	Portugal	19
+RO	Romania	20
+SI	Slovenia	21
+SK	Slovakia	22
+FI	Finland	23
+SE	Sweden	24
+UK	United Kingdom	25

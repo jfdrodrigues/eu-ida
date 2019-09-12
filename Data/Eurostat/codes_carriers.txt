@@ -1,0 +1,58 @@
+2115	Anthracite	2000	Solid fuels	1
+2116	Coking coal	2000	Solid fuels	2
+2117	Other bituminous coal	2000	Solid fuels	3
+2118	Sub-bituminous coal	2000	Solid fuels	4
+2210	Lignite / Brown Coal	2000	Solid fuels	5
+2112	Patent Fuels	2000	Solid fuels	6
+2121	Coke oven coke	2000	Solid fuels	7
+2122	Gas coke	2000	Solid fuels	8
+2130	Coal tar	2000	Solid fuels	9
+2230	BKB	2000	Solid fuels	10
+2310	Peat	2000	Solid fuels	11
+2330	Peat products	2000	Solid fuels	12
+2410	Oil shale & oil sands	2000	Solid fuels	13
+3105	Crude oil	3000	Oil (total)	14
+3106	Natural Gas Liguids	3000	Oil (total)	15
+3191	Refinery Feedstocks	3000	Oil (total)	16
+3192	Additives / Oxygenates	3000	Oil (total)	17
+3193	Other Hydrocarb. (w/o bio)	3000	Oil (total)	18
+3214	Refinery gas	3000	Oil (total)	19
+3215	Ethane	3000	Oil (total)	20
+3220	LPG	3000	Oil (total)	21
+3234	Motor Gasoline (w/o bio)	3000	Oil (total)	22
+3235	Aviation Gasoline	3000	Oil (total)	23
+3246	Gasoline Type Jet Fuel	3000	Oil (total)	24
+3247	Kerosene Type Jet Fuel	3000	Oil (total)	25
+3244	Other Kerosene	3000	Oil (total)	26
+3250	Naphtha	3000	Oil (total)	27
+3260	Gas/Diesel Oil (w/o bio)	3000	Oil (total)	28
+3270A	Fuel Oil	3000	Oil (total)	29
+3281	White spirit and SBP	3000	Oil (total)	30
+3282	Lubricants	3000	Oil (total)	31
+3283	Bitumen	3000	Oil (total)	32
+3285	Petroleum Coke	3000	Oil (total)	33
+3286	Paraffin Waxes	3000	Oil (total)	34
+3295	Other Products	3000	Oil (total)	35
+4100	Natural gas	4000	Gas	36
+4210	Coke oven gas 	4000	Gas	37
+4220	Blast furnace gas	4000	Gas	38
+4230	Gasworks gas	4000	Gas	39
+4240	Other recovered gas	4000	Gas	40
+5510	Hydro power	5500	Total Renewables	41
+5520	Wind power	5500	Total Renewables	42
+5535	Tide, wave and ocean	5500	Total Renewables	43
+5532	Solar thermal	5500	Total Renewables	44
+5534	Solar PV	5500	Total Renewables	45
+5541	Solid biomass	5500	Total Renewables	46
+5544	Charcoal	5500	Total Renewables	47
+5542	Biogas (all)	5500	Total Renewables	48
+55431	Municipal wastes (renew.)	5500	Total Renewables	49
+5546	Bio gasoline	5500	Total Renewables	50
+5547	Biodiesel	5500	Total Renewables	51
+5549	Bio jet kerosene	5500	Total Renewables	52
+5548	Other liquid biofuels	5500	Total Renewables	53
+5550	Geo-thermal	5500	Total Renewables	54
+7200	Wastes (non ren.)	7200	Wastes (non ren.)	55
+5100	Nuclear heat	5100	Nuclear heat	56
+5200	Derived heat	5200	Derived heat	57
+6000	Electricity	6000	Electricity	58
